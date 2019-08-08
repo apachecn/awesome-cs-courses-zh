@@ -141,8 +141,12 @@
 
 +   [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
 +   [中国科学技术大学课程资源](https://github.com/USTC-Resource/USTC-Course)
-+   [北京大学 EECS 课程资源](https://github.com/EECS-PKU-XSB/Shared-learning-materials)
++   [北京大学课程资料整理](https://github.com/lib-pku/libpku)
++   [北京大学信息学院计算机系本科 & 研究生课程大作业选集](https://github.com/tongtzeho/PKUCourse)
++   [上海交通大学课程分享](https://github.com/CoolPhilChen/SJTU-Courses/)
 +   上海交通大学软件学院课程资源
     +   [代码（大作业、Lab）](https://github.com/SJTU-SE/awesome-se)
     +   [课件](https://github.com/sjtu-se-courseware/sjtu-se-courseware)
 +   [北京林业大学信息学院课程攻略](https://github.com/bljx/BFU-leaf)
++   [清华大学计算机系课程攻略](https://github.com/PKUanonym/REKCARC-TSC-UHT)
++   [东南大学课程共享计划](https://github.com/zjdx1998/seucourseshare)
