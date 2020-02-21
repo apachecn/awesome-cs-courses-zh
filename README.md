@@ -150,3 +150,4 @@
 +   [北京林业大学信息学院课程攻略](https://github.com/bljx/BFU-leaf)
 +   [清华大学计算机系课程攻略](https://github.com/PKUanonym/REKCARC-TSC-UHT)
 +   [东南大学课程共享计划](https://github.com/zjdx1998/seucourseshare)
++   [电子科技大学资源共享平台](https://github.com/Xovee/uestc-course)
