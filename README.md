@@ -152,3 +152,4 @@
 +   [东南大学课程共享计划](https://github.com/zjdx1998/seucourseshare)
 +   [电子科技大学资源共享平台](https://github.com/Xovee/uestc-course)
 +   [南京大学 NJU 计算机系 CS 课程资料](https://github.com/ZhangYikaii/NJUCS_Course_Material_JatHoiCheung)
++   [中国科学院大学研一课程教材课件共享项目](https://github.com/lilujunai/UCAS-Course)
