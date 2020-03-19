@@ -154,3 +154,4 @@
 +   [南京大学 NJU 计算机系 CS 课程资料](https://github.com/ZhangYikaii/NJUCS_Course_Material_JatHoiCheung)
 +   [中国科学院大学研一课程教材课件共享项目](https://github.com/lilujunai/UCAS-Course)
 +   [WHU课代表计划 - 武汉大学课程资料整理](https://github.com/openwhu/OpenWHU)
++   [南京邮电大学计算机科学与技术专业历年考试资料](https://github.com/NJUPTFreeExams/NJUPT-CS-Free-Exams)
